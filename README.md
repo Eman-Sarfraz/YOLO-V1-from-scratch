@@ -124,9 +124,8 @@ plot_results(model, dataset, num=5)
 - [Pascal VOC Dataset](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 ---
-
-
-
+## YOLO Comparison
+Lastly PDF document has a comparison of YOLO versions from V1 to V5 with key features,strengths,weaknesses and use cases.
 
 
 
